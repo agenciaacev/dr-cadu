@@ -61,7 +61,7 @@ export default function About() {
         </div>
 
         <h2 className="text-3xl sm:text-4xl lg:text-5xl font-black text-center text-brand-white heading-tight mb-4" data-aos="fade-up" data-aos-delay="60">
-          Médico especialista com foco em{' '}
+          Cirurgião Despecialista com foco em{' '}
           <span className="text-gradient">endometriose</span> e{' '}
           <span className="text-gradient">cirurgia digestiva</span>
         </h2>
